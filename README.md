@@ -1,11 +1,10 @@
 # Mobile Mouse Server for Linux
 
 
-
-**Important: 
+### Important: 
 
 - mmserver has not yet been tested with Mobile Mouse Pro 3.2.3, which may expect changes to server behavior. Please report any major bugs.
-- Please update to the latest available code for compatibility with Mobile Mouse 3.0.0, released 23 October 2013. Versions of mmserver prior to commit [203916b](https://github.com/anoved/mmserver/commit/203916bc853aa90310e9ff596c96612e7ccff0cd) may not respond to mouse motion events received from 3.0.0 clients.**
+- Please update to the latest available code for compatibility with Mobile Mouse 3.0.0, released 23 October 2013. Versions of mmserver prior to commit [203916b](https://github.com/anoved/mmserver/commit/203916bc853aa90310e9ff596c96612e7ccff0cd) may not respond to mouse motion events received from 3.0.0 clients.
 
 ---
 
