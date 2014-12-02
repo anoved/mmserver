@@ -1,6 +1,13 @@
 # Mobile Mouse Server for Linux
 
-**Important: Please update to the latest available code for compatibility with Mobile Mouse 3.0.0, released 23 October 2013. Versions of mmserver prior to commit [203916b](https://github.com/anoved/mmserver/commit/203916bc853aa90310e9ff596c96612e7ccff0cd) may not respond to mouse motion events received from 3.0.0 clients.**
+
+
+**Important: 
+
+- mmserver has not yet been tested with Mobile Mouse Pro 3.2.3, which may expect changes to server behavior. Please report any major bugs.
+- Please update to the latest available code for compatibility with Mobile Mouse 3.0.0, released 23 October 2013. Versions of mmserver prior to commit [203916b](https://github.com/anoved/mmserver/commit/203916bc853aa90310e9ff596c96612e7ccff0cd) may not respond to mouse motion events received from 3.0.0 clients.**
+
+---
 
 Use your iOS or Android device as a network mouse and keyboard for your Linux computer using [Mobile Mouse](http://www.mobilemouse.com/) and this software, which is a fork of [Mobile Mouse Server for Linux](http://sourceforge.net/projects/mmlinuxserver/) by Erik Lax. This fork by Jim DeVona is based on an [earlier fork](https://github.com/kiriakos/mmserver) by Kiriakos Krastillos.
 
